@@ -1,6 +1,6 @@
 # 🌶️ Spice-o-Meter
 
-A plugin for [Family Bookshelf](https://github.com/JokerJonno/family-bookshelf) that adds a separate heat level rating to every book, independent of the star rating. Perfect for dark romance readers who want to know exactly how spicy a book is before diving in.
+A plugin for [Family Bookshelf](https://github.com/ArchiveHunter/family-bookshelf) that adds a separate heat level rating to every book, independent of the star rating. Perfect for dark romance readers who want to know exactly how spicy a book is before diving in.
 
 ---
 
