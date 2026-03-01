@@ -25,13 +25,13 @@ A plugin for [Family Bookshelf](https://github.com/JokerJonno/family-bookshelf) 
 ## Installation
 
 ### Prerequisites
-- [Family Bookshelf](https://github.com/JokerJonno/family-bookshelf) up and running
+- [Family Bookshelf](https://github.com/ArchiveHunter/family-bookshelf) up and running
 
 ### Install
 
 ```bash
 cd ~/bookshelf
-git clone https://github.com/JokerJonno/bookshelf-plugin-spice-o-meter plugins/spice-o-meter
+git clone https://github.com/ArchiveHunter/bookshelf-plugin-spice-o-meter plugins/spice-o-meter
 docker compose down && docker compose up -d --build
 ```
 
@@ -82,6 +82,6 @@ All routes are prefixed with `/api/plugins/spice-o-meter/`
 
 ## Part of the Family Bookshelf ecosystem
 
-- 📚 [family-bookshelf](https://github.com/JokerJonno/family-bookshelf) — the core platform
+- 📚 [family-bookshelf](https://github.com/ArchiveHunter/family-bookshelf) — the core platform
 - 🌶️ bookshelf-plugin-spice-o-meter — this plugin
-- 🚫 [bookshelf-plugin-dnf-tracker](https://github.com/JokerJonno/bookshelf-plugin-dnf-tracker) — Did Not Finish tracker
+- 🚫 [bookshelf-plugin-dnf-tracker](https://github.com/ArchiveHunter/bookshelf-plugin-dnf-tracker) — Did Not Finish tracker
